@@ -1,6 +1,6 @@
 # Free Nodes Radar · Máy chủ proxy miễn phí, kiểm tra mỗi 6 giờ
 
-> Cập nhật lần cuối: 2026-10-19 18:23 (UTC+07:00)
+> Cập nhật lần cuối: 2026-10-20 00:25 (UTC+07:00)
 
 Máy chủ V2Ray, VLESS, VMess, Shadowsocks, Trojan và Hysteria2 miễn phí được thu thập từ các nguồn công khai. Mỗi ngày từng máy chủ được kiểm tra bằng cách mở Google qua chính nó, sau đó được đặt tên theo quốc gia và xếp hạng theo độ ổn định. Có sẵn link đăng ký cho Clash, v2rayN, v2rayNG, Shadowrocket, Hiddify và sing-box.
 
@@ -20,72 +20,72 @@ Sắp xếp theo số lần qua kiểm tra trong 28 lần gần nhất, sau đó
 
 | # | Máy chủ | Giao thức | Độ trễ 🇸🇬 Singapore | Độ trễ 🇩🇪 Đức | Tốc độ | Ổn định |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 🇸🇬 Singapore 11 | ss | 80 ms | 659 ms | 6.04 MB/s | 28/28 |
-| 2 | 🇸🇬 Singapore 09 | vmess | 83 ms | 631 ms | 7.45 MB/s | 28/28 |
-| 3 | 🇸🇬 Singapore 01 | vless | 118 ms | 108 ms | — | 28/28 |
-| 4 | ☁️ Cloudflare 24 | vless | 149 ms | 560 ms | 7.05 MB/s | 28/28 |
-| 5 | 🇩🇪 Germany 02 | vless | 155 ms | 149 ms | 7.24 MB/s | 28/28 |
-| 6 | 🇸🇬 Singapore 10 | vmess | 159 ms | 648 ms | 4.42 MB/s | 28/28 |
-| 7 | 🇩🇪 Germany 14 | vless | 182 ms | 506 ms | 2.66 MB/s | 28/28 |
-| 8 | 🇩🇪 Germany 06 | vless | 188 ms | 251 ms | — | 28/28 |
-| 9 | 🇸🇬 Singapore 02 | vless | 191 ms | 156 ms | — | 28/28 |
-| 10 | ☁️ Cloudflare 03 | vless | 202 ms | 217 ms | 6.77 MB/s | 28/28 |
-| 11 | ☁️ Cloudflare 02 | vless | 217 ms | 133 ms | — | 28/28 |
-| 12 | 🇩🇪 Germany 15 | vless | 222 ms | 510 ms | 2.49 MB/s | 28/28 |
-| 13 | ☁️ Cloudflare 10 | vless | 227 ms | 319 ms | 6.43 MB/s | 28/28 |
-| 14 | ☁️ Cloudflare 06 | vless | 300 ms | 264 ms | 6.48 MB/s | 28/28 |
-| 15 | 🇩🇪 Germany 05 | vless | 308 ms | 232 ms | 6.95 MB/s | 28/28 |
-| 16 | 🇺🇸 United States 12 | vmess | 515 ms | 675 ms | 0.34 MB/s | 28/28 |
-| 17 | 🇺🇸 United States 11 | vmess | 769 ms | 646 ms | 0.26 MB/s | 28/28 |
-| 18 | 🇺🇸 United States 03 | vmess | 794 ms | 443 ms | — | 28/28 |
-| 19 | 🇺🇸 United States 01 | vmess | 801 ms | 383 ms | — | 28/28 |
-| 20 | 🇺🇸 United States 10 | vmess | 836 ms | 645 ms | 0.24 MB/s | 28/28 |
-| 21 | 🇯🇵 Japan 18 | vless | 862 ms | 3,941 ms | — | 28/28 |
-| 22 | 🇯🇵 Japan 03 | vless | 985 ms | 394 ms | 7.13 MB/s | 28/28 |
-| 23 | 🇯🇵 Japan 12 | vless | 1,009 ms | 3,351 ms | — | 28/28 |
-| 24 | 🇯🇵 Japan 22 | vless | 1,109 ms | 4,344 ms | — | 28/28 |
-| 25 | 🇯🇵 Japan 08 | vless | 1,148 ms | 2,784 ms | — | 28/28 |
-| 26 | 🇳🇱 Netherlands 003 | trojan | 2,615 ms | — | — | 28/28 |
-| 27 | 🇳🇱 Netherlands 002 | trojan | 4,197 ms | 2,738 ms | — | 28/28 |
-| 28 | 🇳🇱 Netherlands 001 | trojan | — | 430 ms | — | 28/28 |
-| 29 | 🇫🇷 France 01 | trojan | 1,279 ms | 1,032 ms | 37.29 MB/s | 27/28 |
-| 30 | 🇳🇱 Netherlands 006 | trojan | 1,693 ms | 1,121 ms | — | 27/28 |
+| 1 | ☁️ Cloudflare 17 | vless | 215 ms | 502 ms | 6.45 MB/s | 28/28 |
+| 2 | 🇩🇪 Germany 04 | vless | 240 ms | 139 ms | — | 28/28 |
+| 3 | 🇩🇪 Germany 08 | vless | 245 ms | 176 ms | — | 28/28 |
+| 4 | 🇯🇵 Japan 03 | vless | 287 ms | 180 ms | 6.26 MB/s | 28/28 |
+| 5 | 🇸🇬 Singapore 12 | ss | 291 ms | 681 ms | 33.83 MB/s | 28/28 |
+| 6 | ☁️ Cloudflare 12 | vless | 324 ms | 433 ms | 6.61 MB/s | 28/28 |
+| 7 | 🇩🇪 Germany 09 | vless | 365 ms | 178 ms | — | 28/28 |
+| 8 | 🇩🇪 Germany 06 | vless | 378 ms | 145 ms | — | 28/28 |
+| 9 | 🇸🇬 Singapore 01 | vless | 380 ms | 120 ms | — | 28/28 |
+| 10 | 🇩🇪 Germany 13 | vless | 382 ms | 371 ms | 6.9 MB/s | 28/28 |
+| 11 | ☁️ Cloudflare 10 | vless | 385 ms | 405 ms | 6.39 MB/s | 28/28 |
+| 12 | 🇸🇬 Singapore 09 | vless | 418 ms | 605 ms | 6.18 MB/s | 28/28 |
+| 13 | ☁️ Cloudflare 08 | vless | 427 ms | 375 ms | 7.13 MB/s | 28/28 |
+| 14 | 🇸🇬 Singapore 10 | ss | 428 ms | 637 ms | 103.44 MB/s | 28/28 |
+| 15 | 🇸🇬 Singapore 05 | vless | 447 ms | 409 ms | 1.59 MB/s | 28/28 |
+| 16 | 🇯🇵 Japan 02 | vless | 454 ms | 122 ms | 5.47 MB/s | 28/28 |
+| 17 | ☁️ Cloudflare 20 | vless | 460 ms | 566 ms | 6.71 MB/s | 28/28 |
+| 18 | 🇯🇵 Japan 04 | vless | 502 ms | 273 ms | 0.86 MB/s | 28/28 |
+| 19 | 🇯🇵 Japan 10 | vless | 573 ms | 2,711 ms | 0.03 MB/s | 28/28 |
+| 20 | 🇯🇵 Japan 18 | vless | 598 ms | 4,112 ms | 0.14 MB/s | 28/28 |
+| 21 | 🇺🇸 United States 08 | vmess | 722 ms | 696 ms | 0.38 MB/s | 28/28 |
+| 22 | 🇺🇸 United States 03 | vmess | 845 ms | 555 ms | 0.36 MB/s | 28/28 |
+| 23 | 🇺🇸 United States 05 | vmess | 863 ms | 624 ms | 0.78 MB/s | 28/28 |
+| 24 | 🇺🇸 United States 10 | vmess | 905 ms | 723 ms | 0.43 MB/s | 28/28 |
+| 25 | 🇺🇸 United States 15 | vmess | 908 ms | 911 ms | 0.37 MB/s | 28/28 |
+| 26 | 🇳🇱 Netherlands 002 | trojan | 2,326 ms | 745 ms | 24.53 MB/s | 28/28 |
+| 27 | 🇳🇱 Netherlands 001 | trojan | — | 711 ms | 30.61 MB/s | 28/28 |
+| 28 | 🇭🇰 Hong Kong 01 | vless | 264 ms | — | 1.4 MB/s | 27/28 |
+| 29 | 🇳🇱 Netherlands 006 | trojan | 1,234 ms | 1,382 ms | 1.74 MB/s | 27/28 |
+| 30 | 🇳🇱 Netherlands 014 | trojan | 1,545 ms | — | 0.7 MB/s | 27/28 |
 
 ### Sao chép tất cả máy chủ
 
 Sao chép nội dung bên dưới, rồi chọn "Nhập từ clipboard" trong v2rayN hoặc v2rayNG. Shadowrocket tự nhận clipboard.
 
 ```text
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.45:8080#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2011
-vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HuPCfh6wgU2luZ2Fwb3JlIDA5IiwgImFkZCI6ICIxNDkuODguMjMuMjAyIiwgInBvcnQiOiAxODAwMCwgImlkIjogImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInJhdyIsICJ0eXBlIjogIiIsICJ0bHMiOiAiIn0=
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.35.86:8080?&sni=hhlfy.twiladaphne.ndjp.net&type=ws&headerType=none&host=hhlfy.twiladaphne.ndjp.net&path=%2Fsg-melbi#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2001
-vless://d342d11e-d224-4463-b982-532309285094@172.64.158.170:443?security=tls&type=ws&path=/&host=ccc.010304.xyz&packetEncoding=xudp&sni=ccc.010304.xyz&fp=chrome&encryption=none#%E2%98%81%EF%B8%8F%20Cloudflare%2024
-vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?path=/?TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=lucasjow.us.ci#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2002
-vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HuPCfh6wgU2luZ2Fwb3JlIDEwIiwgImFkZCI6ICIxNDkuODguMjMuMjAyIiwgInBvcnQiOiAxODAwMCwgImlkIjogImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJ0bHMiOiAiIn0=
-vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?encryption=none&security=tls&sni=lucasjow.us.ci&fp=chrome&alpn=http/1.1&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&host=lucasjow.us.ci&path=/cart/docs/www/proxyip#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2014
-vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?path=3&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&type=ws&allowInsecure=0&sni=lucasjow.us.ci#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2006
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.35.86:8080?security=none&type=ws&path=/sg-melbi&host=hhlfy.twiladaphne.ndjp.net&packetEncoding=xudp&encryption=none#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2002
-vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=lucasjow.us.ci#%E2%98%81%EF%B8%8F%20Cloudflare%2003
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.35.86:8080?security=none&type=ws&path=/sg-melbi&host=hhlfy.twiladaphne.ndjp.net&packetEncoding=xudp&sni=hhlfy.twiladaphne.ndjp.net#%E2%98%81%EF%B8%8F%20Cloudflare%2002
-vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?path=/?TELEGRAM-TOOTFFARANGI&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=lucasjow.us.ci#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2015
-vless://d342d11e-d224-4463-b982-532309285094@172.66.0.162:443?security=tls&type=ws&path=/&host=ccc.010304.xyz&packetEncoding=xudp&sni=ccc.010304.xyz&fp=chrome&encryption=none#%E2%98%81%EF%B8%8F%20Cloudflare%2010
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=%2Ffp&security=none&encryption=none&host=hhlfy.twiladaphne.ndjp.net&type=ws#%E2%98%81%EF%B8%8F%20Cloudflare%2006
-vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?path=/?Telegram---mehrosaboran&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=lucasjow.us.ci#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2005
-vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyAxMiIsICJhZGQiOiAiWzI2MDY6NDcwMDo5YTk2Ojo1ZmQ6MTAxN10iLCAicG9ydCI6ICI4MCIsICJpZCI6ICIwY2Y2ZDk3MC0zZjFkLTRhYWUtYTk4OS05MmE4Zjc2YWUzZGIiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogInZtZXNzLmxidzY2Ni5kcGRucy5vcmciLCAicGF0aCI6ICIvd3M/ZWQ9MjA0OCIsICJ0bHMiOiAibm9uZSJ9
-vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyAxMSIsICJhZGQiOiAiWzI2MDY6NDcwMDo5MWIzOjpiZmJiOmRjZTNdIiwgInBvcnQiOiAiODAiLCAiaWQiOiAiMGNmNmQ5NzAtM2YxZC00YWFlLWE5ODktOTJhOGY3NmFlM2RiIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwgInBhdGgiOiAiL3dzP2VkPTIwNDgiLCAidGxzIjogIm5vbmUifQ==
-vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyAwMyIsICJhZGQiOiAiWzI2MDY6NDcwMDo5YTYyOjoxOTVjOjUyZjFdIiwgInBvcnQiOiAiODAiLCAiaWQiOiAiMGNmNmQ5NzAtM2YxZC00YWFlLWE5ODktOTJhOGY3NmFlM2RiIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwgInBhdGgiOiAiL3dzP2VkPTIwNDgiLCAidGxzIjogIm5vbmUifQ==
-vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyAwMSIsICJhZGQiOiAiWzI2MDY6NDcwMDo5YzY2OjozYzZkOjY1XSIsICJwb3J0IjogIjgwIiwgImlkIjogIjBjZjZkOTcwLTNmMWQtNGFhZS1hOTg5LTkyYThmNzZhZTNkYiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAidm1lc3MubGJ3NjY2LmRwZG5zLm9yZyIsICJwYXRoIjogIi93cz9lZD0yMDQ4IiwgInRscyI6ICJub25lIn0=
-vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyAxMCIsICJhZGQiOiAiWzI2MDY6NDcwMDo5YTk4Ojo4OTA6MWQzM10iLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAiMGNmNmQ5NzAtM2YxZC00YWFlLWE5ODktOTJhOGY3NmFlM2RiIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwgInBhdGgiOiAiL3dzP2VkPTIwNDgiLCAidGxzIjogInRscyIsICJzbmkiOiAidm1lc3MubGJ3NjY2LmRwZG5zLm9yZyIsICJmcCI6ICJjaHJvbWUifQ==
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.185:443?security=tls&type=ws&path=/tyxyws&host=jp3.yohototo.top&packetEncoding=xudp&sni=jp3.yohototo.top&fp=chrome&encryption=none#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2018
+vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?allowInsecure=0&sni=lucasjow.us.ci&alpn=http/1.1&type=ws&host=lucasjow.us.ci&path=/cart/docs/www/proxyip=108.160.132.132fp=chrome&security=tls#%E2%98%81%EF%B8%8F%20Cloudflare%2017
+vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.98.0:443?encryption=none&security=tls&sni=lucasjow.us.ci&fp=chrome&alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&host=lucasjow.us.ci&path=%2F%3FTelegram---mehrosaboran#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2004
+vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.98.0:443?encryption=none&security=tls&sni=lucasjow.us.ci&fp=chrome&alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&host=lucasjow.us.ci&path=%2F%3FTelegram---bored_vpn#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2008
 vless://e6df2095-a73c-4043-8693-8d5a03686870@172.64.146.66:443?security=tls&type=ws&path=/cart/docs/www/proxyip=108.160.132.132&host=lucasjow.us.ci&packetEncoding=xudp&sni=lucasjow.us.ci&fp=qq#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2003
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.19.164.155:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2012
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.24.31.89:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2022
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.27.46.35:443?security=tls&type=ws&path=/tyxyws&host=jp3.yohototo.top&packetEncoding=xudp&sni=jp3.yohototo.top&fp=unsafe&encryption=none#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2008
-trojan://humanity@188.114.97.2:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20003
-trojan://humanity@188.114.97.8:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20002
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.236:8080#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2012
+vless://d342d11e-d224-4463-b982-532309285094@172.64.146.66:443?encryption=none&security=tls&sni=ccc.010304.xyz&fp=chrome&type=ws&host=ccc.010304.xyz&path=%2F#%E2%98%81%EF%B8%8F%20Cloudflare%2012
+vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.98.0:443?encryption=none&security=tls&sni=lucasjow.us.ci&fp=chrome&alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&host=lucasjow.us.ci&path=%2F%3FTELEGRAM-TOOTFFARANGI#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2009
+vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.98.0:443?security=tls&type=ws&path=/?Telegram---DailyConfigs---DailyConfigs---DailyConfigs&host=lucasjow.us.ci&packetEncoding=xudp&sni=lucasjow.us.ci&fp=chrome&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2006
+vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.98.0:443?security=tls&alpn=http/1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&type=ws&allowInsecure=0&sni=lucasjow.us.ci#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2001
+vless://e6df2095-a73c-4043-8693-8d5a03686870@172.64.144.82:443?security=tls&type=ws&path=/&host=lucasjow.us.ci&packetEncoding=xudp&sni=lucasjow.us.ci&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2013
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.19.95.153:2082?security=none&type=ws&path=/&host=hhlfy.twiladaphne.ndjp.net&packetEncoding=xudp#%E2%98%81%EF%B8%8F%20Cloudflare%2010
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.35.86:8080?security=none&type=ws&path=/sg-melbi&host=hhlfy.twiladaphne.ndjp.net&packetEncoding=xudp&sni=hhlfy.twiladaphne.ndjp.net#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2009
+vless://d342d11e-d224-4463-b982-532309285094@172.64.158.170:443?security=tls&type=ws&path=/&host=ccc.010304.xyz&packetEncoding=xudp&sni=ccc.010304.xyz&fp=chrome&encryption=none#%E2%98%81%EF%B8%8F%20Cloudflare%2008
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.45:8080#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2010
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.67.71.187:8080?security=none&type=ws&path=/sg-melbi&host=hhlfy.twiladaphne.ndjp.net&packetEncoding=xudp&sni=hhlfy.twiladaphne.ndjp.net#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2005
+vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132%3Fed%23&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=lucasjow.us.ci#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2002
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.43:2082?security=none&type=ws&path=/&host=hhlfy.twiladaphne.ndjp.net&packetEncoding=xudp&sni=hhlfy.twiladaphne.ndjp.net#%E2%98%81%EF%B8%8F%20Cloudflare%2020
+vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?path=/?TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=lucasjow.us.ci#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2004
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.104:443?security=tls&type=ws&path=/tyxyws&host=jp3.yohototo.top&packetEncoding=xudp&sni=jp3.yohototo.top&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2010
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.111.102:443?security=tls&type=ws&path=/tyxyws&host=jp3.yohototo.top&packetEncoding=xudp&sni=jp3.yohototo.top&fp=unsafe&encryption=none#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2018
+vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyAwOCIsICJhZGQiOiAiWzI2MDY6NDcwMDo5YTk4Ojo4OTA6MWQzM10iLCAicG9ydCI6ICI4MCIsICJpZCI6ICIwY2Y2ZDk3MC0zZjFkLTRhYWUtYTk4OS05MmE4Zjc2YWUzZGIiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogInZtZXNzLmxidzY2Ni5kcGRucy5vcmciLCAicGF0aCI6ICIvd3M/ZWQ9MjA0OCIsICJ0bHMiOiAibm9uZSJ9
+vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyAwMyIsICJhZGQiOiAiWzI2MDY6NDcwMDo5YTk4Ojo4OTA6MWQzM10iLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAiMGNmNmQ5NzAtM2YxZC00YWFlLWE5ODktOTJhOGY3NmFlM2RiIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwgInBhdGgiOiAiL3dzP2VkPTIwNDgiLCAidGxzIjogInRscyIsICJzbmkiOiAidm1lc3MubGJ3NjY2LmRwZG5zLm9yZyIsICJmcCI6ICJjaHJvbWUifQ==
+vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyAwNSIsICJhZGQiOiAiWzI4MDM6ZjgwMDo1MDo6NDc0Njo1ZmE2XSIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICIwY2Y2ZDk3MC0zZjFkLTRhYWUtYTk4OS05MmE4Zjc2YWUzZGIiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogInZtZXNzLmxidzY2Ni5kcGRucy5vcmciLCAicGF0aCI6ICIvd3M/ZWQ9MjA0OCIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwgImZwIjogImNocm9tZSJ9
+vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyAxMCIsICJhZGQiOiAiWzJhMDY6OThjMTo0Yzo6NmEwOmM4MzJdIiwgInBvcnQiOiAiNDQzIiwgImlkIjogIjBjZjZkOTcwLTNmMWQtNGFhZS1hOTg5LTkyYThmNzZhZTNkYiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAidm1lc3MubGJ3NjY2LmRwZG5zLm9yZyIsICJwYXRoIjogIi93cz9lZD0yMDQ4IiwgInRscyI6ICJ0bHMiLCAic25pIjogInZtZXNzLmxidzY2Ni5kcGRucy5vcmciLCAiZnAiOiAiY2hyb21lIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyAxNSIsICJhZGQiOiAiWzJhMDY6OThjMTozMTA4OjpkYWM6NmY5Y10iLCAicG9ydCI6ICI4MCIsICJpZCI6ICIwY2Y2ZDk3MC0zZjFkLTRhYWUtYTk4OS05MmE4Zjc2YWUzZGIiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogInZtZXNzLmxidzY2Ni5kcGRucy5vcmciLCAicGF0aCI6ICIvd3M/ZWQ9MjA0OCIsICJ0bHMiOiAibm9uZSJ9
+trojan://humanity@188.114.97.5:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20002
 trojan://humanity@104.21.33.59:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20001
-trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%87%AB%F0%9F%87%B7%20France%2001
-trojan://humanity@188.114.97.2:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20006
+vless://d342d11e-d224-4463-b982-532309285094@43.129.80.179:8443?security=tls&type=ws&path=/&host=ccc.010304.xyz&packetEncoding=none&sni=ccc.010304.xyz&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2001
+trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20006
+trojan://humanity@172.67.139.14:443?sni=www.volumeroot.com&type=ws&path=/assignment&alpn=http/1.1&fp=unsafe#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20014
 ```
 
 ## Ngôn ngữ khác
