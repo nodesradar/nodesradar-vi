@@ -1,6 +1,6 @@
 # Free Nodes Radar · Máy chủ proxy miễn phí, kiểm tra mỗi 6 giờ
 
-> Cập nhật lần cuối: 2026-10-27 06:19 (UTC+07:00)
+> Cập nhật lần cuối: 2026-10-27 12:21 (UTC+07:00)
 
 Máy chủ V2Ray, VLESS, VMess, Shadowsocks, Trojan và Hysteria2 miễn phí được thu thập từ các nguồn công khai. Mỗi ngày từng máy chủ được kiểm tra bằng cách mở Google qua chính nó, sau đó được đặt tên theo quốc gia và xếp hạng theo độ ổn định. Có sẵn link đăng ký cho Clash, v2rayN, v2rayNG, Shadowrocket, Hiddify và sing-box.
 
@@ -20,72 +20,72 @@ Sắp xếp theo tỷ lệ qua kiểm tra trong 28 lần gần nhất (tính t�
 
 | # | Máy chủ | Giao thức | Độ trễ 🇸🇬 Singapore | Độ trễ 🇩🇪 Đức | Tốc độ | Ổn định |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 🇺🇸 United States 01 | ss | 767 ms | 348 ms | — | 28/27 |
-| 2 | 🇬🇧 United Kingdom 01 | ss | 835 ms | 115 ms | — | 28/27 |
-| 3 | 🇺🇸 United States 02 | ss | — | 362 ms | — | 28/27 |
-| 4 | 🇺🇸 United States 03 | ss | — | 363 ms | — | 28/27 |
-| 5 | ☁️ Cloudflare 01 | vless | 74 ms | 86 ms | — | 28/28 |
-| 6 | ☁️ Cloudflare 19 | vless | 82 ms | 474 ms | 13.9 MB/s | 28/28 |
-| 7 | 🇸🇬 Singapore 03 | vmess | 98 ms | — | 79.54 MB/s | 28/28 |
-| 8 | ☁️ Cloudflare 22 | vless | 109 ms | 502 ms | 4.59 MB/s | 28/28 |
-| 9 | 🇸🇬 Singapore 04 | vmess | 114 ms | — | 102.21 MB/s | 28/28 |
-| 10 | 🇸🇬 Singapore 05 | vmess | 115 ms | — | 156.24 MB/s | 28/28 |
-| 11 | 🇸🇬 Singapore 01 | vless | 135 ms | 213 ms | 16.61 MB/s | 28/28 |
-| 12 | 🇸🇬 Singapore 06 | vless | 142 ms | — | 5.64 MB/s | 28/28 |
-| 13 | ☁️ Cloudflare 03 | vless | 156 ms | 201 ms | 5.21 MB/s | 28/28 |
-| 14 | ☁️ Cloudflare 08 | vless | 275 ms | 292 ms | 10.6 MB/s | 28/28 |
-| 15 | 🇮🇳 India 02 | vless | 313 ms | 534 ms | 15.58 MB/s | 28/28 |
-| 16 | 🇯🇵 Japan 14 | vless | 365 ms | — | 0.35 MB/s | 28/28 |
-| 17 | 🇲🇾 Malaysia 01 | vless | 383 ms | — | 6.82 MB/s | 28/28 |
-| 18 | 🇯🇵 Japan 15 | ss | 398 ms | — | 15.03 MB/s | 28/28 |
-| 19 | 🇯🇵 Japan 16 | vless | 487 ms | — | 4.88 MB/s | 28/28 |
-| 20 | 🇰🇷 South Korea 01 | vless | 508 ms | — | 7.31 MB/s | 28/28 |
-| 21 | 🇯🇵 Japan 17 | vless | 529 ms | — | 0.33 MB/s | 28/28 |
-| 22 | 🇯🇵 Japan 18 | ss | 539 ms | — | 14.73 MB/s | 28/28 |
-| 23 | 🇮🇳 India 04 | vless | 544 ms | 803 ms | 13.26 MB/s | 28/28 |
-| 24 | 🇰🇷 South Korea 02 | vless | 556 ms | — | 11.77 MB/s | 28/28 |
-| 25 | 🇰🇷 South Korea 03 | vless | 573 ms | — | 12.64 MB/s | 28/28 |
-| 26 | 🇺🇸 United States 54 | vmess | 606 ms | 672 ms | 5.66 MB/s | 28/28 |
-| 27 | 🇮🇹 Italy 07 | ss | 636 ms | 507 ms | 5.69 MB/s | 28/28 |
-| 28 | 🇺🇸 United States 45 | vmess | 650 ms | 611 ms | 5.65 MB/s | 28/28 |
-| 29 | 🇮🇳 India 03 | vless | 695 ms | 674 ms | 13.83 MB/s | 28/28 |
-| 30 | 🇫🇷 France 13 | vless | 697 ms | 496 ms | 6.56 MB/s | 28/28 |
+| 1 | 🇬🇧 United Kingdom 01 | ss | 875 ms | 477 ms | — | 28/27 |
+| 2 | 🇺🇸 United States 003 | ss | 1,180 ms | 630 ms | — | 28/27 |
+| 3 | 🇺🇸 United States 001 | ss | — | 520 ms | — | 28/27 |
+| 4 | 🇺🇸 United States 002 | ss | — | 543 ms | — | 28/27 |
+| 5 | ☁️ Cloudflare 10 | vless | 140 ms | 471 ms | 11.36 MB/s | 28/28 |
+| 6 | ☁️ Cloudflare 32 | vless | 149 ms | 561 ms | 13.6 MB/s | 28/28 |
+| 7 | 🇸🇬 Singapore 03 | vless | 168 ms | — | 1.32 MB/s | 28/28 |
+| 8 | 🇸🇬 Singapore 04 | ss | 172 ms | — | 117.26 MB/s | 28/28 |
+| 9 | ☁️ Cloudflare 17 | vless | 176 ms | 493 ms | 8.36 MB/s | 28/28 |
+| 10 | 🇸🇬 Singapore 05 | vmess | 209 ms | — | 3.81 MB/s | 28/28 |
+| 11 | 🇸🇬 Singapore 06 | vless | 217 ms | — | 167.54 MB/s | 28/28 |
+| 12 | 🇸🇬 Singapore 07 | vless | 224 ms | — | 97.37 MB/s | 28/28 |
+| 13 | ☁️ Cloudflare 30 | vless | 268 ms | 558 ms | 23.38 MB/s | 28/28 |
+| 14 | ☁️ Cloudflare 09 | vless | 269 ms | 469 ms | 14.2 MB/s | 28/28 |
+| 15 | 🇯🇵 Japan 11 | ss | 302 ms | — | 15.14 MB/s | 28/28 |
+| 16 | 🇯🇵 Japan 12 | ss | 325 ms | — | 11.31 MB/s | 28/28 |
+| 17 | 🇲🇾 Malaysia 01 | vless | 389 ms | — | 19.77 MB/s | 28/28 |
+| 18 | 🇯🇵 Japan 13 | vless | 405 ms | — | 0.33 MB/s | 28/28 |
+| 19 | 🇮🇳 India 01 | vless | 412 ms | 564 ms | 8.84 MB/s | 28/28 |
+| 20 | 🇯🇵 Japan 14 | vless | 454 ms | — | 0.24 MB/s | 28/28 |
+| 21 | 🇯🇵 Japan 15 | ss | 513 ms | — | — | 28/28 |
+| 22 | 🇰🇷 South Korea 01 | vless | 559 ms | — | 0.69 MB/s | 28/28 |
+| 23 | 🇳🇱 Netherlands 047 | ss | 583 ms | 365 ms | 0.3 MB/s | 28/28 |
+| 24 | 🇮🇳 India 02 | vless | 584 ms | — | 0.62 MB/s | 28/28 |
+| 25 | 🇰🇷 South Korea 02 | vless | 587 ms | — | 0.7 MB/s | 28/28 |
+| 26 | 🇺🇸 United States 078 | vmess | 600 ms | 829 ms | 5.8 MB/s | 28/28 |
+| 27 | 🇰🇷 South Korea 03 | vless | 602 ms | — | 0.76 MB/s | 28/28 |
+| 28 | 🇺🇸 United States 076 | vmess | 605 ms | 810 ms | 5.81 MB/s | 28/28 |
+| 29 | 🇳🇱 Netherlands 009 | ss | 615 ms | 173 ms | — | 28/28 |
+| 30 | 🇫🇷 France 11 | vless | 617 ms | 329 ms | 0.27 MB/s | 28/28 |
 
 ### Sao chép tất cả máy chủ
 
 Sao chép nội dung bên dưới, rồi chọn "Nhập từ clipboard" trong v2rayN hoặc v2rayNG. Shadowrocket tự nhận clipboard.
 
 ```text
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.151.163.18:19999?#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2001
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.176.206.9:19999#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2001
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.230.230.18:19999#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2002
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@45.86.51.18:19999#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2003
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.25.3.123:8080?encryption=none&security=none&type=ws&path=%2Ffp&host=hhlfy.twiladaphne.ndjp.net#%E2%98%81%EF%B8%8F%20Cloudflare%2001
-vless://d342d11e-d224-4463-b982-532309285094@172.64.153.153:443?security=tls&type=ws&path=%2F&host=ccc.010304.xyz&packetEncoding=xudp&sni=ccc.010304.xyz&fp=chrome&encryption=none#%E2%98%81%EF%B8%8F%20Cloudflare%2019
-vmess://eyJhZGQiOiAiMTQ5Ljg4LjIzLjIwMiIsICJhaWQiOiAwLCAiaG9zdCI6ICIxNDkuODguMjMuMjAyIiwgImlkIjogImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMTgwMDAiLCAicHMiOiAi8J+HuPCfh6wgU2luZ2Fwb3JlIDAzIiwgInNuaSI6ICIxNDkuODguMjMuMjAyIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.43:8080?security=none&type=ws&path=%2Fsg-melbi&host=hhlfy.twiladaphne.ndjp.net&packetEncoding=xudp&sni=hhlfy.twiladaphne.ndjp.net#%E2%98%81%EF%B8%8F%20Cloudflare%2022
-vmess://eyJhZGQiOiAiMTQ5Ljg4LjIzLjIwMiIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIxODAwMCIsICJwcyI6ICLwn4e48J+HrCBTaW5nYXBvcmUgMDQiLCAic25pIjogIjE0OS44OC4yMy4yMDIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
-vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HuPCfh6wgU2luZ2Fwb3JlIDA1IiwgImFkZCI6ICIxNDkuODguMjMuMjAyIiwgInBvcnQiOiAxODAwMCwgImlkIjogImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInJhdyIsICJ0eXBlIjogIiIsICJ0bHMiOiAiIn0=
-vless://d342d11e-d224-4463-b982-532309285094@43.174.193.1:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2001
-vless://49c0aac1-5e05-4f04-b624-248fc59e03c4@54.169.200.246:41688?security=reality&type=tcp&packetEncoding=xudp&sni=www.intel.com&fp=chrome&flow=xtls-rprx-vision&sid=7f342137c20387&pbk=srwIElIGTPs0kshpN1vvPsn4wixV_pLd56y_v9m0sTk#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2006
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.19.95.153:2082?security=none&type=ws&path=%2F&host=hhlfy.twiladaphne.ndjp.net&packetEncoding=xudp#%E2%98%81%EF%B8%8F%20Cloudflare%2003
-vless://d342d11e-d224-4463-b982-532309285094@172.66.154.57:443?security=tls&sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=%2F&fp=chrome#%E2%98%81%EF%B8%8F%20Cloudflare%2008
-vless://1d4e18bd-1f26-4915-b35a-7ace4826e76a@194.61.31.126:2053?security=reality&type=raw&packetEncoding=xudp&sni=www.apple.com&fp=firefox&sid=9980e0609b0d3891&pbk=PuAGLfJy6cu1TNoHuKIKSxPetCbZI41fc8hQDjWPIAU#%F0%9F%87%AE%F0%9F%87%B3%20India%2002
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:19645?security=reality&type=raw&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2014
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@193.151.163.18:19999#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20003
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@45.86.51.18:19999#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20001
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.230.230.18:19999#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20002
+vless://d342d11e-d224-4463-b982-532309285094@172.66.0.162:443?security=tls&type=ws&path=%2F&host=ccc.010304.xyz&packetEncoding=xudp&sni=ccc.010304.xyz&fp=chrome&encryption=none#%E2%98%81%EF%B8%8F%20Cloudflare%2010
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.43:8080?security=none&type=ws&path=%2Fsg-melbi&host=hhlfy.twiladaphne.ndjp.net&packetEncoding=xudp&encryption=none#%E2%98%81%EF%B8%8F%20Cloudflare%2032
+vless://49c0aac1-5e05-4f04-b624-248fc59e03c4@54.169.200.246:41688?security=reality&type=tcp&packetEncoding=xudp&sni=www.intel.com&fp=chrome&flow=xtls-rprx-vision&sid=7f342137c20387&pbk=srwIElIGTPs0kshpN1vvPsn4wixV_pLd56y_v9m0sTk#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2003
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@68.183.227.45:8080#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2004
+vless://d342d11e-d224-4463-b982-532309285094@104.20.17.210:443?security=tls&sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=%2F&fp=chrome#%E2%98%81%EF%B8%8F%20Cloudflare%2017
+vmess://eyJhZGQiOiAiMTQ5Ljg4LjIzLjIwMiIsICJhaWQiOiAwLCAiaG9zdCI6ICIxNDkuODguMjMuMjAyIiwgImlkIjogImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMTgwMDAiLCAicHMiOiAi8J+HuPCfh6wgU2luZ2Fwb3JlIDA1IiwgInNuaSI6ICIxNDkuODguMjMuMjAyIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+vless://f1178fbe-1420-4eef-b087-4f33b32b4a19@139.162.27.96:443/?type=tcp&encryption=none&flow=&security=tls&sni=aka.ms&alpn=h2%2Chttp%2F1.1&allowInsecure=1&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2006
+vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@139.162.27.96:2096?security=tls&type=ws&path=%2Ffree-server.techsonic.dev&host=free-server.techsonic.dev&packetEncoding=xudp&sni=free-server.techsonic.dev&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2007
+vless://d342d11e-d224-4463-b982-532309285094@104.26.4.2:443?security=tls&type=ws&path=%2Ffp%3Dchrome&host=ccc.010304.xyz&packetEncoding=xudp&sni=ccc.010304.xyz&fp=chrome#%E2%98%81%EF%B8%8F%20Cloudflare%2030
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.35.86:2082?security=none&type=ws&path=%2Ffp&host=hhlfy.twiladaphne.ndjp.net&packetEncoding=xudp&sni=hhlfy.twiladaphne.ndjp.net#%E2%98%81%EF%B8%8F%20Cloudflare%2009
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.204:443#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2011
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.240:443#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2012
 vless://d342d11e-d224-4463-b982-532309285094@216.173.67.59:443?allowInsecure=0&sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chrome&security=tls#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%2001
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:19645?security=reality&type=raw&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2013
+vless://1d4e18bd-1f26-4915-b35a-7ace4826e76a@194.61.31.126:2053?security=reality&type=raw&packetEncoding=xudp&sni=www.apple.com&fp=firefox&sid=9980e0609b0d3891&pbk=PuAGLfJy6cu1TNoHuKIKSxPetCbZI41fc8hQDjWPIAU#%F0%9F%87%AE%F0%9F%87%B3%20India%2001
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:18007?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&encryption=none#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2014
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.241:443#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2015
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:19645?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2016
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?security=reality&type=raw&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%2001
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:18007?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&encryption=none#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2017
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2018
-vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?sni=13.140.56.100&type=ws&host=13.140.56.100&path=/vless#%F0%9F%87%AE%F0%9F%87%B3%20India%2004
-vless://a2de9567-9646-45a9-a410-7303a43bdb6c@151.245.106.49:2053?security=reality&type=raw&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&sid=429499c03d4cc8a0&pbk=F6C33iIbfmt1mUsuLTarIC8ygdHKMqsaGvrSQltyxUo#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%2002
-vless://a2de9567-9646-45a9-a410-7303a43bdb6c@151.245.106.49:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&sid=429499c03d4cc8a0&pbk=F6C33iIbfmt1mUsuLTarIC8ygdHKMqsaGvrSQltyxUo#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%2003
-vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyA1NCIsICJhZGQiOiAiODQuMTcuNDEuMiIsICJwb3J0IjogMTgwMDAsICJpZCI6ICJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAidGxzIjogIiJ9
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@57.131.48.45:8388#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2007
-vmess://eyJ2IjogbnVsbCwgInBzIjogIvCfh7rwn4e4IFVuaXRlZCBTdGF0ZXMgNDUiLCAiYWRkIjogIjg0LjE3LjQxLjIiLCAicG9ydCI6IDE4MDAwLCAiaWQiOiAiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6IG51bGwsICJob3N0IjogIiIsICJhbHBuIjogbnVsbCwgInBhdGgiOiAiLyIsICJ0bHMiOiAibm9uZSIsICJzbmkiOiBudWxsLCAiZnAiOiBudWxsLCAibmFtZSI6ICJVUyDwn4e68J+HuCB8IEBSYXlkaWthbHggfCAxMDEyNjkiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
-vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?security=none&type=ws&path=%2Fvless&host=13.140.56.100&packetEncoding=xudp&encryption=none#%F0%9F%87%AE%F0%9F%87%B3%20India%2003
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?security=reality&type=tcp&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20France%2013
+vless://a2de9567-9646-45a9-a410-7303a43bdb6c@151.245.106.49:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&sid=429499c03d4cc8a0&pbk=F6C33iIbfmt1mUsuLTarIC8ygdHKMqsaGvrSQltyxUo#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%2001
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.170:443#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20047
+vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?security=none&type=ws&path=%2Fvless&host=13.140.56.100&packetEncoding=xudp&encryption=none#%F0%9F%87%AE%F0%9F%87%B3%20India%2002
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:18967?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%2002
+vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyAwNzgiLCAiYWRkIjogIjE2OS4xOTcuMTQyLjIyIiwgInBvcnQiOiAxODAwMCwgImlkIjogImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInJhdyIsICJ0eXBlIjogIiIsICJ0bHMiOiAiIn0=
+vless://a2de9567-9646-45a9-a410-7303a43bdb6c@151.245.106.49:2053?security=reality&type=raw&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&sid=429499c03d4cc8a0&pbk=F6C33iIbfmt1mUsuLTarIC8ygdHKMqsaGvrSQltyxUo#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%2003
+vmess://eyJhZGQiOiAiMTY5LjE5Ny4xNDIuMjIiLCAiYWlkIjogIjAiLCAiYWxwbiI6IG51bGwsICJmcCI6IG51bGwsICJob3N0IjogIiIsICJpZCI6ICJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCAibmFtZSI6ICJVUyDwn4e68J+HuCB8IEBSYXlkaWthbHggfCBFMzhEREIiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6IDE4MDAwLCAicHMiOiAi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyAwNzYiLCAic2N5IjogbnVsbCwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogbnVsbCwgInRscyI6ICIiLCAidHlwZSI6IG51bGwsICJ2IjogbnVsbH0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20009
+vless://81dc0b61-f9fe-4ad6-8b4e-b8c067b73712@152.228.139.33:35108?security=reality&type=grpc&mode=gun&serviceName=grpc-common3&packetEncoding=xudp&sni=www.nvidia.com&fp=firefox&sid=52add08b86a5ccea&pbk=X_lOw5Zz4SJBa1cRHV4dAq5msYE-ClY5-WNcBmBWRxg&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20France%2011
 ```
 
 ## Ngôn ngữ khác
