@@ -1,6 +1,6 @@
 # Free Nodes Radar · Máy chủ proxy miễn phí, kiểm tra mỗi 6 giờ
 
-> Cập nhật lần cuối: 2026-11-15 09:27 (UTC+07:00)
+> Cập nhật lần cuối: 2026-11-15 19:31 (UTC+07:00)
 
 Máy chủ V2Ray, VLESS, VMess, Shadowsocks, Trojan và Hysteria2 miễn phí được thu thập từ các nguồn công khai. Mỗi ngày từng máy chủ được kiểm tra bằng cách mở Google qua chính nó, sau đó được đặt tên theo quốc gia và xếp hạng theo độ ổn định. Có sẵn link đăng ký cho Clash, v2rayN, v2rayNG, Shadowrocket, Hiddify và sing-box.
 
@@ -20,72 +20,72 @@ Sắp xếp theo tỷ lệ qua kiểm tra trong 28 lần gần nhất (tính t�
 
 | # | Máy chủ | Giao thức | Độ trễ 🇸🇬 Singapore | Độ trễ 🇩🇪 Đức | Tốc độ | Ổn định |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 🇸🇬 Singapore 07 | ss | 66 ms | 1,074 ms | 53.09 MB/s | 28/28 |
-| 2 | 🇸🇬 Singapore 01 | ss | 70 ms | 829 ms | 26.32 MB/s | 28/28 |
-| 3 | 🇸🇬 Singapore 02 | ss | 90 ms | 891 ms | 31.21 MB/s | 28/28 |
-| 4 | 🇸🇬 Singapore 08 | ss | 162 ms | 1,139 ms | 31.36 MB/s | 28/28 |
-| 5 | 🇸🇬 Singapore 03 | ss | 181 ms | 927 ms | 27.19 MB/s | 28/28 |
-| 6 | 🇳🇱 Netherlands 20 | ss | 524 ms | 388 ms | 5.93 MB/s | 28/28 |
-| 7 | 🇳🇱 Netherlands 36 | ss | 535 ms | 420 ms | 0.3 MB/s | 28/28 |
-| 8 | 🇳🇱 Netherlands 06 | ss | 537 ms | 309 ms | 6.01 MB/s | 28/28 |
-| 9 | 🇳🇱 Netherlands 27 | ss | 543 ms | 401 ms | 6.18 MB/s | 28/28 |
-| 10 | 🇳🇱 Netherlands 17 | ss | 551 ms | 372 ms | 0.31 MB/s | 28/28 |
-| 11 | 🇧🇬 Bulgaria 01 | ss | 587 ms | 572 ms | 3.95 MB/s | 28/28 |
-| 12 | 🇺🇸 United States 011 | ss | 611 ms | 790 ms | 5.88 MB/s | 28/28 |
-| 13 | 🇧🇬 Bulgaria 02 | ss | 694 ms | 636 ms | 3.78 MB/s | 28/28 |
-| 14 | 🇺🇸 United States 005 | ss | 727 ms | 682 ms | 4.49 MB/s | 28/28 |
-| 15 | 🇺🇸 United States 010 | ss | 772 ms | 764 ms | 4.02 MB/s | 28/28 |
-| 16 | 🇩🇪 Germany 05 | ss | 800 ms | 417 ms | 5.46 MB/s | 28/28 |
-| 17 | 🇮🇹 Italy 06 | ss | 801 ms | 398 ms | 0.45 MB/s | 28/28 |
-| 18 | 🇮🇹 Italy 11 | ss | 806 ms | 494 ms | 0.43 MB/s | 28/28 |
-| 19 | 🇮🇹 Italy 03 | ss | 810 ms | 380 ms | 0.44 MB/s | 28/28 |
-| 20 | 🇦🇹 Austria 02 | ss | 810 ms | 499 ms | 2.02 MB/s | 28/28 |
-| 21 | 🇺🇸 United States 015 | ss | 822 ms | 1,000 ms | 5.6 MB/s | 28/28 |
-| 22 | 🇺🇸 United States 002 | ss | 830 ms | 624 ms | 4.55 MB/s | 28/28 |
-| 23 | 🇮🇹 Italy 01 | ss | 867 ms | 325 ms | 0.46 MB/s | 28/28 |
-| 24 | 🇩🇪 Germany 06 | ss | 872 ms | 448 ms | 4.25 MB/s | 28/28 |
-| 25 | 🇮🇹 Italy 02 | ss | 881 ms | 361 ms | 4.07 MB/s | 28/28 |
-| 26 | 🇬🇧 United Kingdom 01 | ss | 929 ms | 489 ms | 5.67 MB/s | 28/28 |
-| 27 | 🇬🇧 United Kingdom 04 | ss | 944 ms | 526 ms | 6.36 MB/s | 28/28 |
-| 28 | 🇬🇧 United Kingdom 03 | ss | 957 ms | 494 ms | 4.5 MB/s | 28/28 |
-| 29 | 🇬🇧 United Kingdom 05 | ss | 1,056 ms | 552 ms | 5.61 MB/s | 28/28 |
-| 30 | 🇩🇪 Germany 04 | ss | 1,102 ms | 388 ms | 0.41 MB/s | 28/28 |
+| 1 | 🇸🇬 Singapore 30 | ss | 75 ms | 876 ms | 36.19 MB/s | 28/28 |
+| 2 | 🇸🇬 Singapore 01 | hysteria2 | 83 ms | 439 ms | — | 28/28 |
+| 3 | 🇸🇬 Singapore 04 | vmess | 93 ms | 534 ms | — | 28/28 |
+| 4 | 🇸🇬 Singapore 21 | vmess | 95 ms | 667 ms | — | 28/28 |
+| 5 | 🇸🇬 Singapore 02 | hysteria2 | 97 ms | 474 ms | — | 28/28 |
+| 6 | 🇭🇰 Hong Kong 05 | hysteria2 | 149 ms | 463 ms | 1.33 MB/s | 28/28 |
+| 7 | 🇹🇼 Taiwan 03 | hysteria2 | 164 ms | 430 ms | 1.24 MB/s | 28/28 |
+| 8 | 🇹🇼 Taiwan 07 | hysteria2 | 171 ms | 443 ms | 1.19 MB/s | 28/28 |
+| 9 | 🇭🇰 Hong Kong 06 | hysteria2 | 174 ms | 468 ms | 1.63 MB/s | 28/28 |
+| 10 | 🇭🇰 Hong Kong 11 | hysteria2 | 189 ms | 488 ms | 1.33 MB/s | 28/28 |
+| 11 | 🇭🇰 Hong Kong 04 | hysteria2 | 195 ms | 461 ms | 1.35 MB/s | 28/28 |
+| 12 | 🇭🇰 Hong Kong 12 | hysteria2 | 195 ms | 490 ms | 1.2 MB/s | 28/28 |
+| 13 | 🇯🇵 Japan 05 | hysteria2 | 233 ms | 632 ms | 2.4 MB/s | 28/28 |
+| 14 | 🇯🇵 Japan 03 | hysteria2 | 284 ms | 594 ms | 3.69 MB/s | 28/28 |
+| 15 | 🇹🇼 Taiwan 10 | hysteria2 | 304 ms | 450 ms | — | 28/28 |
+| 16 | 🇹🇼 Taiwan 12 | hysteria2 | 315 ms | 490 ms | — | 28/28 |
+| 17 | 🇹🇼 Taiwan 08 | hysteria2 | 333 ms | 445 ms | — | 28/28 |
+| 18 | 🇯🇵 Japan 01 | hysteria2 | 339 ms | 537 ms | — | 28/28 |
+| 19 | 🇰🇷 South Korea 05 | hysteria2 | 346 ms | 643 ms | — | 28/28 |
+| 20 | 🇰🇷 South Korea 16 | hysteria2 | 358 ms | 740 ms | — | 28/28 |
+| 21 | 🇹🇭 Thailand 01 | vmess | 360 ms | 829 ms | — | 28/28 |
+| 22 | 🇰🇷 South Korea 07 | hysteria2 | 366 ms | 658 ms | — | 28/28 |
+| 23 | 🇳🇱 Netherlands 11 | hysteria2 | 417 ms | 145 ms | — | 28/28 |
+| 24 | 🇩🇪 Germany 06 | hysteria2 | 422 ms | 71 ms | — | 28/28 |
+| 25 | 🇺🇸 United States 034 | hysteria2 | 424 ms | 489 ms | — | 28/28 |
+| 26 | 🇰🇷 South Korea 06 | hysteria2 | 429 ms | 657 ms | — | 28/28 |
+| 27 | 🇺🇸 United States 004 | hysteria2 | 436 ms | 360 ms | — | 28/28 |
+| 28 | 🇦🇺 Australia 01 | hysteria2 | 439 ms | 842 ms | — | 28/28 |
+| 29 | 🇷🇴 Romania 03 | hysteria2 | 476 ms | 166 ms | — | 28/28 |
+| 30 | 🇫🇷 France 12 | hysteria2 | 478 ms | 136 ms | — | 28/28 |
 
 ### Sao chép tất cả máy chủ
 
 Sao chép nội dung bên dưới, rồi chọn "Nhập từ clipboard" trong v2rayN hoặc v2rayNG. Shadowrocket tự nhận clipboard.
 
 ```text
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@68.183.227.236:8080#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2007
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@68.183.227.45:8080#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2001
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@128.1.186.132:8080#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2002
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@68.183.235.240:8080#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2008
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@128.1.186.73:8080#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2003
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:443#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%2020
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%2036
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.39:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%2006
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.211:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%2027
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%2017
-ss://YWVzLTI1Ni1jZmI6UFJCZjRCUzJIdkpxdFd4WQ@213.183.63.60:9049#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%2001
-ss://2022-blake3-aes-128-gcm:jUbDNsFamcyDfpm%2BrI3Zyw%3D%3D@38.145.220.193:8443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20011
-ss://YWVzLTI1Ni1jZmI6NFIzaFVmWjJGSGhEbU5jUA@213.183.63.60:9061#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%2002
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.215.132.9:19999#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20005
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.151.160.18:19999#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20010
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.20.147:8080#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2005
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.72:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2006
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999?#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2011
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.99:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2003
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZGF3ZmZGTUh5bWxhc1JiMFZPUDNIRmY3c1RHNXNKeA==@152.53.1.57:8388#%F0%9F%87%A6%F0%9F%87%B9%20Austria%2002
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@79.110.54.250:8080#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20015
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.215.132.18:19999#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20002
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.27:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2001
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.176.204.18:19999#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2006
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2002
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.46.199:8080#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2001
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@98.98.142.161:8080#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2004
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.176.206.9:19999#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2003
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.46.214:8080#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2005
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2004
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@68.183.227.45:8080#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2030
+hysteria2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1&sni=138.2.73.238#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2001
+vmess://eyJ2IjogbnVsbCwgInBzIjogIvCfh7jwn4esIFNpbmdhcG9yZSAwNCIsICJhZGQiOiAiMTQ5Ljg4LjIzLjIwNyIsICJwb3J0IjogMTgwMDAsICJpZCI6ICJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogbnVsbCwgImhvc3QiOiAid3cxMS5sZXZpa29namdmZGQuaXIiLCAiYWxwbiI6IG51bGwsICJwYXRoIjogIi8iLCAidGxzIjogIm5vbmUiLCAic25pIjogbnVsbCwgImZwIjogbnVsbCwgIm5hbWUiOiAiU0cg8J+HuPCfh6wgfCBAUmF5ZGlrYWx4IHwgQ0FGMzRGIn0=
+vmess://eyJhZGQiOiAiMTQ5Ljg4LjIzLjIwNyIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIxODAwMCIsICJwcyI6ICLwn4e48J+HrCBTaW5nYXBvcmUgMjEiLCAic25pIjogInd3MTEubGV2aWtvZ2pnZmRkLmlyIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+hysteria2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1&sni=off#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2002
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=google.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2005
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&sni=103.115.109.49#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%2003
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=127.0.0.1#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%2007
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-hk-004.fastervpn.world:443?insecure=1&sni=vpn-hk-004.fastervpn.world#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2006
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=vk.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2011
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.89:443?insecure=1&sni=t.me#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2004
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.89:443?insecure=1&sni=202.146.222.89#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2012
+hysteria2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160?insecure=1&sni=1#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2005
+hysteria2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160?insecure=1&sni=138.3.208.26#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2003
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=speedtest.tinkoff.ru#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%2010
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?insecure=1&sni=127.0.0.1#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%2012
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?insecure=1&sni=160.187.100.109#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%2008
+hysteria2://u63SxILNwtrQZ7Y1ZrFaZfsA@8.211.175.236:8443?insecure=1&sni=bing.com#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2001
+hysteria2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160?insecure=1&sni=132.226.226.189#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%2005
+hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?insecure=1#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%2016
+vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HufCfh60gVGhhaWxhbmQgMDEiLCAiYWRkIjogIjExOS40Ni41MS40NSIsICJwb3J0IjogMzc1MTUsICJpZCI6ICI5Yjc2YmMzMS0xN2E1LTQ0NTQtOTM0YS04ZDVmYjYwMmNkNzAiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJub25lIiwgInR5cGUiOiAiIiwgInRscyI6ICIiLCAiYWxwbiI6ICIifQ==
+hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?insecure=1&sni=www.bing.com#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%2007
+hysteria2://capadm54312235%3AJdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:37075?sni=vpn.local&obfs=salamander&obfs-password=ypvL8T4HFIBLoH8q&insecure=1#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%2011
+hysteria2://d62s7ghfehm742us@151.243.169.164:12824?sni=derfderf.ru#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2006
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20034
+hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?insecure=1&sni=google.com#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%2006
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?insecure=1&sni=off#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20004
+hysteria2://633bc3be486b646190661ac2387c150a@152.67.115.203:443?insecure=1&obfs=salamander&obfs-password=850a3fb1cd33a28f12d837578ae1a2e7&sni=www.bing.com#%F0%9F%87%A6%F0%9F%87%BA%20Australia%2001
+hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443/?sni=hy2-new.aspidnet.xyz&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566#%F0%9F%87%B7%F0%9F%87%B4%20Romania%2003
+hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.7.139:60111?insecure=1&sni=www.bing.com#%F0%9F%87%AB%F0%9F%87%B7%20France%2012
 ```
 
 ## Ngôn ngữ khác
